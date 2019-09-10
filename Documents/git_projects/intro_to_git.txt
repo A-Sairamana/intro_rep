@@ -1,0 +1,3 @@
+i had login to my git account and created a new repository.
+i used some commands like git add,clone,push.
+if i clone my work in git that can be seen by others and they can know code and information. they can also suggest me if i had made mistakes. 
